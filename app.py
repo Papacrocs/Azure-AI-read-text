@@ -25,7 +25,7 @@ st.set_page_config(
 st.write("""
 # Welcome to the OCR Text Extraction App
 
-Built by Stephen Samuel (PapaCrocs), a Beta Microsoft Learn Student Ambassador (MLSA), with assistance from Josiah Adesola, a BETA MLSA.
+Built by Stephen Samuel (PapaCrocs), a Beta Microsoft Learn Student Ambassador (MLSA), with assistance from Josiah Adesola and Ajibola Matthew [BETA MLSA].
 
 This app utilizes Azure AI to extract text from images and documents.
 
